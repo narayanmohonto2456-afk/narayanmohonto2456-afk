@@ -1,6 +1,7 @@
 # 💫 About Me:
 # I Am Narayan
 <br>Currently I am Learning...<br><br>Python<br>Json<br>Django Framework.
+<br>Html<br>Css<br>Javascript.
 
 
 ## 🌐 Socials:
