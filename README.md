@@ -1,12 +1,12 @@
 # 💫 About Me:
 # I Am Narayan
 <br>Currently I am Learning...<br>
-##Python
-##Django REST FRAMEWORK
-##PostgresSQL
-##Html
-##Css
-##Javascript
+#Python
+#Django REST FRAMEWORK
+#PostgresSQL
+#Html
+#Css
+#Javascript
 
 
 ## 🌐 Socials:
